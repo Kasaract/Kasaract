@@ -1,8 +1,17 @@
-# Hi, I'm Gary! 👋🏼 👨🏻‍💻
+# 👋🏼 Hi, I'm Gary!
 
-Thanks for visiting! I'm a software engineer and UI/UX designer with a strong interest in full-stack development. Some technologies I enjoy working with include ReactJS, Three.js, Flutter, and Figma. Recently, I've been getting more involved in the open-source community as well as experimenting with game development with Godot Engine!
+##  About Me
 
-## 📫 Feel free to reach out
+Thanks for visiting! I'm a software engineer and UI/UX designer with a strong interest in full-stack development. Some technologies I enjoy working with include ReactJS, Three.js, Flutter, and Figma.
+
+## 🌱 What I'm Doing
+
+- 🛰️ Interning at <a href="https://www.emergentspace.com/">@Emergent</a> as a full-stack developer and UI designer
+- 🎮 Learning game development using the Godot Engine with <a href="https://github.com/uheartbeast">@Heartbeast</a>
+- 🔥 Watching <em>The Legend of Korra</em>
+
+
+## 📫 Let's Connect!
 
 <a href="https://www.linkedin.com/in/gary-nguyen-mit/">
 	<img width="24" align="left"
