@@ -1,6 +1,6 @@
 # Hi, I'm Gary! 👋🏼 👨🏻‍💻
 
-<span style="font-size:1.5em">
+<span style="font-size:50px">
 Thanks for visiting! I'm a software engineer and UI/UX designer with a strong interest in full-stack development. Some technologies I enjoy working with include ReactJS, Three.js, Flutter, and Figma. Recently, I've been getting more involved in the open-source community as well as experimenting with game development with Godot Engine!
 </span>
 
