@@ -1,14 +1,14 @@
 # 👋🏼 Hi, I'm Gary!
 
-##  About Me
-
 Thanks for visiting! I'm a software engineer and UI/UX designer with a strong interest in full-stack development. Some technologies I enjoy working with include ReactJS, Three.js, Flutter, and Figma.
 
 ## 🌱 What I'm Doing
 
-- 🛰️ Interning at <a href="https://www.emergentspace.com/">@Emergent</a> as a full-stack developer and UI designer
+- 🛰️ Interning at [@Emergent](https://www.emergentspace.com/) as a full-stack developer and UI designer
+- 💻 Working hard with the organizing team at (@HackMIT)[https://hackmit.org/] to bring hackers a memorable virtual hackathon experience
 - 🎮 Learning game development using the Godot Engine with <a href="https://github.com/uheartbeast">@Heartbeast</a>
-- 🔥 Watching <em>The Legend of Korra</em>
+- 🔥 Watching <em>The Legend of Korra</em> to bring balance to the world
+- 🎵 Streaming BTS's new single <em>Dynamite</em> cause WOW!
 
 
 ## 📫 Let's Connect!
