@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Gary! 👋🏼🏾 👨🏻‍💻
 
-<!--
-**Kasaract/Kasaract** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting! I'm a software engineer and UI/UX designer with a strong interest in full-stack development. Some technologies I enjoy working with include ReactJS, Three.js, Flutter, and Figma. Recently, I've been getting more involved in the open-source community as well as experimenting with game development with Godot Engine!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Feel free to reach out
+<a href="https://github.com/Kasaract">
+	<img width="32" align="left"
+		 alt="My GitHub profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+</a>
+
+<a href="https://www.instagram.com/garynguyen18/">
+	<img width="32" align="left"
+		 alt="My Instagram profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/gary-nguyen-mit/">
+	<img width="32" align="left"
+		 alt="My LinkedIn profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
+
+
+<a href="https://twitter.com/garynguyen_18">
+	<img width="32" align="left"
+		 alt="My Twitter profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+</a>
