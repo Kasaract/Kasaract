@@ -12,7 +12,7 @@ Thanks for visiting! I'm a software engineer and UI/UX designer with a strong in
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a>
 
-<a href="https://www.instagram.com/garynguyen18/" target="_blank" rel="noopener">
+<a href="https://www.instagram.com/garynguyen18/" target="_blank">
 	<img width="24" align="left"
 		 alt="My Instagram profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
