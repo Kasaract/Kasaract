@@ -1,4 +1,4 @@
-# Hi, I'm Gary! 👋🏼🏾 👨🏻‍💻
+# Hi, I'm Gary! 👋🏼 👨🏻‍💻
 
 Thanks for visiting! I'm a software engineer and UI/UX designer with a strong interest in full-stack development. Some technologies I enjoy working with include ReactJS, Three.js, Flutter, and Figma. Recently, I've been getting more involved in the open-source community as well as experimenting with game development with Godot Engine!
 
@@ -20,12 +20,6 @@ Thanks for visiting! I'm a software engineer and UI/UX designer with a strong in
 	<img width="32" align="left"
 		 alt="My LinkedIn profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-
-<a href="https://twitter.com/garynguyen_18">
-	<img width="32" align="left"
-		 alt="My Twitter profile"
-		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
 
 <a href="https://twitter.com/garynguyen_18">
